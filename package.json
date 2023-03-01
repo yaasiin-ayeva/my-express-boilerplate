@@ -53,6 +53,6 @@
     "mysql": "^2.18.1",
     "nodemon": "^2.0.20",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.3.11"
+    "typeorm": "^0.3.12"
   }
 }
